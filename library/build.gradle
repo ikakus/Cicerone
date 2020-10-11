@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'kotlin'
 
 // This is important even if Android Studio claims it isn't
 // used. Android can't interpret Java 8 byte code.
